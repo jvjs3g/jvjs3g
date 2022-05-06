@@ -1,4 +1,4 @@
-### olá, Eu sou o João Vitor 👋
+### Olá, Eu sou o João Vitor 👋
  
 
 - 🌱 Estudando React
